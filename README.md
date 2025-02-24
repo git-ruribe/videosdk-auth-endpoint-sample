@@ -1,4 +1,5 @@
 # Zoom Video SDK Auth Endpoint sample
+# https://github.com/zoom/videosdk-auth-endpoint-sample
 
 Use of this sample app is subject to our [Terms of Use](https://explore.zoom.us/en/video-sdk-terms/).
 
